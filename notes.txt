@@ -1,0 +1,5 @@
+bugs:
+	0.
+
+implementar:
+	1. esconder os números já preenchidos
